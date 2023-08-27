@@ -1,7 +1,9 @@
 function App() {
   return (
     <>
-      <div className="bg-purple-500 text-white">Hello World!</div>
+      <div className="w-full min-h-screen">
+        <h1>Hello</h1>
+      </div>
     </>
   );
 }
